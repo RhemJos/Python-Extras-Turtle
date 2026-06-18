@@ -12,7 +12,7 @@ window.bgcolor("black")
 # to set the color mode to RGB:
 # turtle.colormode(255)
 # window.bgcolor(170,30,20)
-window.title("Animation")
+window.title("Animation by Rhem")
 
 # to change the background pic:
 # window.bgpic("file.gif")
